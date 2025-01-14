@@ -1,0 +1,5 @@
+priority,estimated_time,days_until_due,assigned_day_index,feedback
+2,2,0,2,0
+1,3,0,2,0
+3,5,0,2,0
+2,4,7,2,1
